@@ -1,0 +1,11 @@
+D:\Users\Saki\Documents\Atlas\Temp\bin\Debug\Assembly-CSharp.dll
+D:\Users\Saki\Documents\Atlas\Temp\bin\Debug\Assembly-CSharp.pdb
+D:\Users\Saki\Documents\Atlas\Temp\bin\Debug\UnityEditor.dll
+D:\Users\Saki\Documents\Atlas\Temp\bin\Debug\UnityEngine.dll
+D:\Users\Saki\Documents\Atlas\Temp\bin\Debug\Mono.Cecil.dll
+D:\Users\Saki\Documents\Atlas\Temp\bin\Debug\nunit.framework.dll
+D:\Users\Saki\Documents\Atlas\Temp\bin\Debug\Unity.DataContract.dll
+D:\Users\Saki\Documents\Atlas\Temp\bin\Debug\ICSharpCode.NRefactory.dll
+D:\Users\Saki\Documents\Atlas\obj\Debug\ResolveAssemblyReference.cache
+D:\Users\Saki\Documents\Atlas\obj\Debug\Assembly-CSharp.dll
+D:\Users\Saki\Documents\Atlas\obj\Debug\Assembly-CSharp.pdb

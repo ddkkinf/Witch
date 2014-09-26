@@ -1,0 +1,364 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &100000
+GameObject:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  serializedVersion: 4
+  m_Component:
+  - 4: {fileID: 400000}
+  - 114: {fileID: 11400000}
+  m_Layer: 0
+  m_Name: Atlas_1_play
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &400000
+Transform:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 100000}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_RootOrder: 0
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 100000}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4d0c51bb0b6e93049af5e88f93826e3b, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  material: {fileID: 2100000, guid: b36192a7a05f5bb43ae0e4d5a4c2ed8e, type: 2}
+  sprites:
+  - name: Player_6_Hat
+    outer:
+      serializedVersion: 2
+      x: 0
+      y: 43
+      width: 297
+      height: 180
+    inner:
+      serializedVersion: 2
+      x: 0
+      y: 43
+      width: 297
+      height: 180
+    rotated: 0
+    paddingLeft: 0
+    paddingRight: 0
+    paddingTop: 0
+    paddingBottom: 0
+  - name: UI_4_GuageBG
+    outer:
+      serializedVersion: 2
+      x: 592
+      y: 172
+      width: 502
+      height: 51
+    inner:
+      serializedVersion: 2
+      x: 592
+      y: 172
+      width: 502
+      height: 51
+    rotated: 0
+    paddingLeft: 0
+    paddingRight: 0
+    paddingTop: 0
+    paddingBottom: 0
+  - name: UI_Pause
+    outer:
+      serializedVersion: 2
+      x: 934
+      y: 38
+      width: 61
+      height: 61
+    inner:
+      serializedVersion: 2
+      x: 934
+      y: 38
+      width: 61
+      height: 61
+    rotated: 0
+    paddingLeft: 0
+    paddingRight: 0
+    paddingTop: 0
+    paddingBottom: 0
+  - name: 0_black
+    outer:
+      serializedVersion: 2
+      x: 996
+      y: 49
+      width: 50
+      height: 50
+    inner:
+      serializedVersion: 2
+      x: 996
+      y: 49
+      width: 50
+      height: 50
+    rotated: 0
+    paddingLeft: 0
+    paddingRight: 0
+    paddingTop: 0
+    paddingBottom: 0
+  - name: Player_2_Foot
+    outer:
+      serializedVersion: 2
+      x: 298
+      y: 6
+      width: 105
+      height: 50
+    inner:
+      serializedVersion: 2
+      x: 298
+      y: 6
+      width: 105
+      height: 50
+    rotated: 0
+    paddingLeft: 0
+    paddingRight: 0
+    paddingTop: 0
+    paddingBottom: 0
+  - name: Bg_2_near
+    outer:
+      serializedVersion: 2
+      x: 1281
+      y: 561
+      width: 320
+      height: 463
+    inner:
+      serializedVersion: 2
+      x: 1281
+      y: 561
+      width: 320
+      height: 463
+    rotated: 0
+    paddingLeft: 0
+    paddingRight: 0
+    paddingTop: 0
+    paddingBottom: 0
+  - name: Player_1_char_jarooTail
+    outer:
+      serializedVersion: 2
+      x: 404
+      y: 6
+      width: 66
+      height: 50
+    inner:
+      serializedVersion: 2
+      x: 404
+      y: 6
+      width: 66
+      height: 50
+    rotated: 0
+    paddingLeft: 0
+    paddingRight: 0
+    paddingTop: 0
+    paddingBottom: 0
+  - name: UI_3_SCORE
+    outer:
+      serializedVersion: 2
+      x: 298
+      y: 57
+      width: 205
+      height: 71
+    inner:
+      serializedVersion: 2
+      x: 298
+      y: 57
+      width: 205
+      height: 71
+    rotated: 0
+    paddingLeft: 0
+    paddingRight: 0
+    paddingTop: 0
+    paddingBottom: 0
+  - name: Player_3_Body
+    outer:
+      serializedVersion: 2
+      x: 934
+      y: 100
+      width: 117
+      height: 71
+    inner:
+      serializedVersion: 2
+      x: 934
+      y: 100
+      width: 117
+      height: 71
+    rotated: 0
+    paddingLeft: 0
+    paddingRight: 0
+    paddingTop: 0
+    paddingBottom: 0
+  - name: UI_5_UI_GuageBar
+    outer:
+      serializedVersion: 2
+      x: 1602
+      y: 1007
+      width: 412
+      height: 17
+    inner:
+      serializedVersion: 2
+      x: 1602
+      y: 1007
+      width: 412
+      height: 17
+    rotated: 0
+    paddingLeft: 0
+    paddingRight: 0
+    paddingTop: 0
+    paddingBottom: 0
+  - name: Player_5_FaceAngry
+    outer:
+      serializedVersion: 2
+      x: 592
+      y: 34
+      width: 170
+      height: 137
+    inner:
+      serializedVersion: 2
+      x: 592
+      y: 34
+      width: 170
+      height: 137
+    rotated: 0
+    paddingLeft: 0
+    paddingRight: 0
+    paddingTop: 0
+    paddingBottom: 0
+  - name: Bg_1_far
+    outer:
+      serializedVersion: 2
+      x: 0
+      y: 224
+      width: 1280
+      height: 800
+    inner:
+      serializedVersion: 2
+      x: 0
+      y: 224
+      width: 1280
+      height: 800
+    rotated: 0
+    paddingLeft: 0
+    paddingRight: 0
+    paddingTop: 0
+    paddingBottom: 0
+  - name: Player_4_Arm
+    outer:
+      serializedVersion: 2
+      x: 504
+      y: 4
+      width: 64
+      height: 51
+    inner:
+      serializedVersion: 2
+      x: 504
+      y: 4
+      width: 64
+      height: 51
+    rotated: 0
+    paddingLeft: 0
+    paddingRight: 0
+    paddingTop: 0
+    paddingBottom: 0
+  - name: Player_5_Face
+    outer:
+      serializedVersion: 2
+      x: 763
+      y: 34
+      width: 170
+      height: 137
+    inner:
+      serializedVersion: 2
+      x: 763
+      y: 34
+      width: 170
+      height: 137
+    rotated: 0
+    paddingLeft: 0
+    paddingRight: 0
+    paddingTop: 0
+    paddingBottom: 0
+  - name: Enemy_1_pumkin
+    outer:
+      serializedVersion: 2
+      x: 504
+      y: 56
+      width: 71
+      height: 72
+    inner:
+      serializedVersion: 2
+      x: 504
+      y: 56
+      width: 71
+      height: 72
+    rotated: 0
+    paddingLeft: 0
+    paddingRight: 0
+    paddingTop: 0
+    paddingBottom: 0
+  - name: BtnSource
+    outer:
+      serializedVersion: 2
+      x: 298
+      y: 129
+      width: 293
+      height: 94
+    inner:
+      serializedVersion: 2
+      x: 313
+      y: 144
+      width: 263
+      height: 64
+    rotated: 0
+    paddingLeft: 0
+    paddingRight: 0
+    paddingTop: 0
+    paddingBottom: 0
+  - name: Player_1_char_jaroo
+    outer:
+      serializedVersion: 2
+      x: 0
+      y: 30
+      width: 165
+      height: 12
+    inner:
+      serializedVersion: 2
+      x: 0
+      y: 30
+      width: 165
+      height: 12
+    rotated: 0
+    paddingLeft: 0
+    paddingRight: 0
+    paddingTop: 0
+    paddingBottom: 0
+  mCoordinates: 0
+  mPixelSize: 1
+  mReplacement: {fileID: 0}
+--- !u!1001 &100100000
+Prefab:
+  m_ObjectHideFlags: 1
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 0}
+    m_Modifications: []
+    m_RemovedComponents: []
+  m_ParentPrefab: {fileID: 0}
+  m_RootGameObject: {fileID: 100000}
+  m_IsPrefabParent: 1
+  m_IsExploded: 1
